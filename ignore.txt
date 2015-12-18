@@ -2,3 +2,4 @@
 *.psd
 *.esproj
 elements/*
+node_modules
