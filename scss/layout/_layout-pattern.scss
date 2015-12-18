@@ -144,12 +144,13 @@ display : flex;
 flex-direction : column;
 justify-content : center;
 min-height : 100vh;
-background-color : #555;
-border-color : #555;
+background : #624f8b url(../assets/img/patterns/pattern-cover-bg.jpg) no-repeat 0 50%;
+background-size : cover;
+border-color : #624f8b;
 color : $white; }
 
 .pattern__cover__logo {
-margin-bottom : 6rem;
+margin-bottom : 3rem;
 text-align : center; }
 
 .pattern__cover__logo img {
@@ -157,8 +158,12 @@ width : 65.3333%; }
 
 .pattern__cover__header {
 font-size : 2.4rem;
-text-align : center;
-word-spacing : .5rem; }
+text-align : center; }
+
+.pattern__cover__intro {
+margin-bottom : 3rem;
+font-size : 1.6rem;
+text-align : center; }
 
 .pattern__contents__footer {
 
@@ -190,8 +195,7 @@ column-gap : $gutter; }
 }
 
 .pattern__contents__footer {
-text-align : center;
-text-transform : uppercase; }
+text-align : center; }
 
 }
 
