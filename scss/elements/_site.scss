@@ -36,3 +36,6 @@ color : $font-color;
 @include bp(bp4) {
 @include font-size($font-size-plus-one); }
 }
+
+a, button, input, select, textarea, label, summary {
+touch-action : manipulation; }
