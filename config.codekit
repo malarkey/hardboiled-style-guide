@@ -82,15 +82,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/partials\/_head.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/partials\/_head.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/partials\/_module-pagination.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -702,7 +693,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Andrew Clarke",
+"lastSavedByUser": "Scott Gruber",
 "manualImportLinks": {
 	},
 "projectAttributes": {
